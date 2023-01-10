@@ -9,10 +9,11 @@ Just a game that I made because I had nothing to do for the moment, made it in s
 Only uploading it to my github to share it and for my personal memories ^^
 
 
-
+```
 #How to run it
 
-```
+python main.py
+
 Only need to python the main.py
 Need Python Version 3.10.1 and above
 
