@@ -12,6 +12,13 @@ Only uploading it to my github to share it and for my personal memories ^^
 ```
 #How to run it
 
+For Windows Desktop Environments:
+  -> go the the /output folder
+  -> run main.exe
+  PS: Sometimes, you will need to disable windows defender / disable your antivirus
+  
+Else, follow the instructions bellow:
+
 python main.py
 
 Only need to python the main.py
