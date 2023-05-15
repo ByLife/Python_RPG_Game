@@ -1,30 +1,37 @@
-# Python RPG Game
-A small game made with love with a partner that made the custom maps
+# Table of content
 
-All the infos about how to play it is in the game itself
+- [Introduction](#introduction)
 
-Thanks to https://github.com/Naywvi for the custom maps (made with Tiled) !
+- [Installation](#installation)
 
-Just a game that I made because I had nothing to do for the moment, made it in september 2022.
-Only uploading it to my github to share it and for my personal memories ^^
+- [Usage](#usage)
 
+- [Contributing](#contributing)
 
-```
-#How to run it
+- [License](#license)
 
-For Windows Desktop Environments:
-  -> go the the /output folder
-  -> run main.exe
-  PS: Sometimes, you will need to disable windows defender / disable your antivirus
-  
-Else, follow the instructions bellow:
+## Introduction
 
-python main.py
+This is a python game made with pygame. It is a RPG game where you can fight monsters and need to find the lost objects from villagers.
+The map is personalized and made with Tiled Map Editor. Thanks to [Naywvi](https://github.com/Naywvi) for the map.
 
-Only need to python the main.py
-Need Python Version 3.10.1 and above
+## Installation
 
-If problems are encountered (with the libs), install them and if it doesn't fix them, you can open a ticket
+To run the projects you will need to have python 3.8 or higher installed on your computer.
+You will also need to install pygame with ```pip install pygame```.
 
-Thanks !
-```
+If any other library is needed you will need to install it with pip.
+
+## Usage
+
+To run the game you will need to run the main.py file with python.
+You can also directly run the .exe file in the output folder.
+
+## Contributing
+
+If you want to contribute to this project you can fork this repository and make a pull request with your changes.
+Anyone is welcome to contribute to this project.
+
+## License
+
+This project is under the MIT license.
